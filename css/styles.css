@@ -1,0 +1,14 @@
+.flashy {
+  color: red;
+  font-size: 50px;
+  font-family: cursive;
+  font-style: italic;
+}
+
+.best {
+  color: blue;
+  font-size: 20px;
+  font-family: cursive;
+  font-style: bold;
+
+}
